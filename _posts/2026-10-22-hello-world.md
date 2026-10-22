@@ -1,6 +1,6 @@
 ---
 title: 블로그를 시작합니다
-date: 2026-10-22 22:00:00 +0900
+date: 2026-10-22 21:00:00 +0900
 categories: [Blog, 일상]
 tags: [chirpy, jekyll, github-pages]
 ---
